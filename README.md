@@ -1,3 +1,6 @@
+CorpComment – a platform where users can give companies feedback based on hashtags (2023)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
